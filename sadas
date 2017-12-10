@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+body
+{
+background:blue;
+}
+ol.a
+{
+	list-style-type:decimal;
+	background-color:red;
+	
+}
+ul.b
+{
+	 list-style-image:url(1.png);
+	
+	
+}
+ul.c
+{
+	list-style-image:url(2.png);
+body
+{
+	font-size:18px;
+	color:white;
+	font-family:Arial, Helvetica;
+	background:#39f;
+}
+h1
+{
+	background-color:orange;
+	width:110px;
+	height:85px;
+	color:red;
+}
+h2 
+{
+	background-color:orange;
+	width:160px;
+	color:red;
+}
+h3
+{
+	background:orange;
+	height:30px;
+	width:120px;
+
+	
+
+
+
+
+
+
+
+</style>
+</head>
+<body>
+
+<h1>Bize Ulaşın</h1>
+<ol  class="a">
+<br />
+<li> İŞ TEL:02424441112</li>
+<li> CEP TEL:05345487845</li>
+<li> FAX TEL:02424441111</li>
+</ol>
+<h2>Adreslerimiz</h2>
+<ul class="b">
+<li>Merkez Organize Sanayi Bölgesi Antalya</li>
+<li> Şube-1 Doğu Garajı Muratpaşa ANTALYA</li>
+<li> Şube-2 Çağlayan Mah Lara ANTALYA</li>
+</ul>
+<h3>YETKİLİ KİŞİ</h3>
+<ul class="c">
+<li>Merkez ALİ TAN</li>
